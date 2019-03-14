@@ -1,4 +1,4 @@
-public class NoBullyng {
+public class NoBullying {
     public static void main(String[] args){
         System.out.println('Programa NoBullyng');
 
@@ -9,5 +9,7 @@ public class NoBullyng {
         System.out.println('Passo 3: Conversar sempre com os filhos');
 
         System.out.println('Passo 4: Abrir discussões relacionadas ao tema em escolas');
+
+        System.out.println('Passo 5: Incentivar a pratica de atividades extra curriculares');
     }
 }
