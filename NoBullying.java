@@ -11,5 +11,7 @@ public class NoBullying {
         System.out.println('Passo 4: Abrir discussões relacionadas ao tema em escolas');
 
         System.out.println('Passo 5: Incentivar a pratica de atividades extra curriculares');
+
+        System.out.println('Passo 6: Manter conversas sobre os acontecimentos da escola com os pais');
     }
 }
