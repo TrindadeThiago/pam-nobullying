@@ -19,5 +19,7 @@ public class NoBullying {
         System.out.println('Passo 8: Observar o comportamento das pessoas ao seu redor');
 
         System.out.println('Passo 9: Fornecer auxilio');
+
+        System.out.println('Passo 10: Ter empatia');
     }
 }
