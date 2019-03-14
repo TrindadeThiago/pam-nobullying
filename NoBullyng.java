@@ -7,5 +7,7 @@ public class NoBullyng {
         System.out.println('Passo 2: Praticar o ato de elogiar as pequenas atitudes');
 
         System.out.println('Passo 3: Conversar sempre com os filhos');
+
+        System.out.println('Passo 4: Abrir discussões relacionadas ao tema em escolas');
     }
 }
